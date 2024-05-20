@@ -1,0 +1,11 @@
+username, password, email, last_time_logged_in DD/MM/YYYY HH:MM:SS, is_deleted
+zai4ety_didity, Dani@5, didi@hotmail.co.uk, 23/09/2023 12:15:32, false
+kiki23, KiKsun89#, kiki@gmail.com, 22/04/2022 01:19:41, false
+pesho_90, peturEvelik(45), info@softuni-bulgaria.org, 18/07/2022 01:19:41, false
+gosho55, gogataM5$5, gogo_milenov@gmail.com, 04/08/2000 11:11:41, false
+lola_aksolotul, gufu$JK98, bartrah@gmail.com, 09/12/2015 09:10:12, false
+kiril, kleopatRa2821*, s.peterson@mail.uu.net, 19/05/2010 08:20:30, false
+monika_ms, Moni$onboni65*, no-reply@github.com, 16/01/2012 10:21:02, false
+ema_cleo, H2OprostodobaviVod@, h2o@github.com, 06/06/2013 12:01:32, false
+bloom21, ClubWinx21*&%, winx@softuni-bulgaria.org, 02/02/2014 16:30:41, false
+deneris, denerisTargerian16(^, deneris_targerian@software-university.software.academy, 06/01/2016 17:35:23, false
