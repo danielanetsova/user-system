@@ -69,8 +69,7 @@ public class UserServiceImpl implements UserService {
             users.forEach(user -> System.out.println(user.getUsernameAndEmail()));
         }
     }
-    //в задачата се иска първо is_deleted на юзърите логнати преди дадената дата да се сетне на true,
-    //да се изпринти броят им и тогава да се изтрият, което според мен е безсмислено като може направо да ги изтрием
+    
     @Override
     public void printCountOfUsersSetAsDeleted(String date) {
         LocalDate localDate = LocalDate.parse(date, DateTimeFormatter.ofPattern("dd/MM/yyyy"));
