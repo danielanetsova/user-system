@@ -2,7 +2,7 @@
 User System
 
 ### Description
-This project aims to create a database for storing data using the Code First approach, to write custom annotation and to complete some tasks.  
+This project aims to create a database for storing data using the Code First approach, to write custom annotations and to complete some tasks.  
 
 ### Tasks
 - Print all usernames and emails of users by given email provider.
